@@ -1,6 +1,8 @@
 # NKU-COSC0013-数据库系统课程大作业
 本部分我们使用python来实现一个数据库的简易管理系统，并且完成老师下发的任务
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Luhaozhhhe/Honor_of_Kings_Database_System&type=Timeline)](https://star-history.com/#Luhaozhhhe/Honor_of_Kings_Database_System&Timeline)
+
 ## 项目名称：
 王者荣耀赛事信息管理系统
 
